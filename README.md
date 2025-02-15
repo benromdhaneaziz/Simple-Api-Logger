@@ -58,7 +58,7 @@ simple_api_logger/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/simple_api_logger.git
+git clone https://github.com/benromdhaneaziz/Simple-Api-Logger.git
 cd simple_api_logger
 ```
 
